@@ -1,0 +1,14 @@
+This file shows the inner workings of the non-linear programming solver package.
+Each step is recorded and displayed here.
+
+This is iteration 1:
+
+The initial point is: [0.0, 0.0]
+The initial search directions for each variable are: [4.0, 0.0]
+The initial lambda/alpha is: 0.5
+The new point is: [2.0, 0.0]
+
+
+The minimum of the function x1**2 - 2*x1*x2 - 4*x1 + 3*x2**2 is found at:
+x1 = 2.00
+x2 = 0.00

@@ -1,0 +1,5 @@
+This file displays the answers found using non-linear programming solver package.
+
+The minimum of the function x1**2 - 2*x1*x2 - 4*x1 + 3*x2**2 is found at:
+x1 = 2.00
+x2 = 0.00
