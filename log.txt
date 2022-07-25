@@ -4,11 +4,20 @@ Each step is recorded and displayed here.
 This is iteration 1:
 
 The initial point is: [0.0, 0.0]
-The initial search directions for each variable are: [4.0, 0.0]
-The initial lambda/alpha is: 0.5
-The new point is: [2.0, 0.0]
+The initial search directions for each variable are: [-1.0, 1.0]
+The initial lambda/alpha is: 1.0
+The new point is: [-1.0, 1.0]
 
+Beta Values are calculated using the Polak-Ribiere method.
 
-The minimum of the function x1**2 - 2*x1*x2 - 4*x1 + 3*x2**2 is found at:
-x1 = 2.00
-x2 = 0.00
+This is iteration 2:
+
+This iteration starts from: [-1.0, 1.0]
+The search directions for each variable are: [0.0, 2.0]
+Beta is: 1.0
+Alpha is: 0.25
+The new point is: [-1.0, 1.5]
+
+The minimum of the function 2*x1**2 + 2*x1*x2 + x1 + x2**2 - x2 is found at:
+x1 = -1.00
+x2 = 1.50

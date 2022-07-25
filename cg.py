@@ -7,7 +7,7 @@ x1, x2, x3, x4, x5, x6, x7, x8 = x = symbols("x1 x2 x3 x4 x5 x6 x7 x8")
 # --- USER INPUT ---
 # Enter Function (use symbols x1, x2, x3, etc.):
 
-# function = (x1 - 1) ** 2 + (x2 - 2) ** 2 + (x3 - 3) ** 2  # Answer = 1,2,3
+function = (x1 - 1) ** 2 + (x2 - 2) ** 2 + (x3 - 3) ** 2  # Answer = 1,2,3
 # function = x1 -x2 + 2 * x1 ** 2 + 2 * x1 * x2 + x2 ** 2 # Answer = -1,1.5
 # function = x1 ** 2 - 2 * x1 * x2 + 3 * x2 ** 2 - 4 * x1  # Answer = 2,0
 # function = x1 ** 2 - 2 * x1 + 3 * x2 ** 2 - 4 * x1  # Answer = 3,0
